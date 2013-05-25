@@ -1,5 +1,10 @@
-.. role:: prop
+.. raw:: html    
     <style> .prop {color: lightred;} </style>
+
+.. role:: prop
+
+
+
 
 
 Продукты
