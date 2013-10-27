@@ -4,7 +4,7 @@ import csv
 
 
 def write_to_csv(filename, table):
-    with open(filename, 'w') as output_file:
+    with open(filename, 'w', newline='') as output_file:
         output_writer = csv.writer(output_file)
         for row in table:
             output_writer.writerow(row)
