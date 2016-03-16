@@ -2,13 +2,17 @@
 
 - [Соус Болоньезе](bolognese.rst)
 - [Тайское зеленое карри с курицей и овощами](chicken_green_curry.md)
+- [Тирамису](tiramisu.rst)
 
 # Готовил однажды
 
 - [Бургеры с беконом и карамелизованным луком](burgers.md), [v2 draft](burgers_v2.md)
 - [Суп из говядины](beef_soup.rst)
+- [Салат "Подсолнух"](sunflower_salad.rst)
 - [Куриные грудки, тушеные в сметане с зеленью](chicken_sour_cream.md), [вариант с грибами](chicken_with_mushrooms)
+- [Курица в кисло-сладком соусе](sweet_and_sour_pork.md)
 - [Белые грибы в сметане](mushrooms_in_milk.rst)
+- [Каши в молоковарке](porridge.md)
 
 # Наброски
 - [Картофельный суп с сыром и беконом](bacon_soup.md)
