@@ -6,6 +6,7 @@
 
 # Готовил однажды
 
+- [Свинина карнитас](carnitas.md)
 - [Бургеры с беконом и карамелизованным луком](burgers.md), [v2 draft](burgers_v2.md)
 - [Суп из говядины](beef_soup.rst)
 - [Салат "Подсолнух"](sunflower_salad.rst)
