@@ -25,3 +25,8 @@
 # Хочу
 - [Свиная отбивная, запеченная с сыром и грибами](http://valzevul.ru/2012/03/22/pork-chop-with-mushrooms/)
 - [Котлеты по-киевски](http://www.youtube.com/watch?v=II3jVV0ypz4)
+
+# TODO
+
+![](wishlist_1.png)
+![](wishlist_2.png)
