@@ -17,6 +17,10 @@
 - [Белые грибы в сметане](mushrooms_in_milk.rst)
 - [Каши в молоковарке](porridge.md)
 - [Веганское фондю в тарелке](restrictase.md)
+- [Яйца "Бенедикт" с лососем](https://www.instagram.com/p/BWMktfzFCI0/?taken-by=vitaly__pavlenko)
+- [Хачапури по-аджарски](https://www.instagram.com/p/BTTIBBcjpxK/?taken-by=vitaly__pavlenko)
+- [Эчпочмаки](https://www.instagram.com/p/BTa-gQbFRWV/?taken-by=vitaly__pavlenko)
+- [Рагу из бычьего хвоста](https://www.instagram.com/p/BT_DgkHjhsM/?taken-by=vitaly__pavlenko)
 - Брауни
 - Крылышки "Баффало" с соусом блю-чиз
 
