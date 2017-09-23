@@ -3,11 +3,11 @@
 - [Соус Болоньезе](bolognese.rst)
 - [Тайское зеленое карри с курицей и овощами](chicken_green_curry.md)
 - [Тирамису](tiramisu.rst)
+- [Свинина карнитас](carnitas.md)
 - [Сырная полента](polenta.md)
 
 # Готовил однажды
 
-- [Свинина карнитас](carnitas.md)
 - [Новоанглийский клэм чаудер](clam_chowder.md)
 - [Бургеры с беконом и карамелизованным луком](burgers.md), [v2 draft](burgers_v2.md)
 - [Суп из говядины](beef_soup.rst)
